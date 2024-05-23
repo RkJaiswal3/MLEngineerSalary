@@ -1,2 +1,2 @@
 # MLEngineerSalary
-It's the data Calulation of ML Engineer salary.
+In this code we just displaying the details of some columns and it's correspondent.
